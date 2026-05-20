@@ -35,19 +35,17 @@ The charts below showcase the core empirical relationships discovered within the
 ### 1. The Contrarian Edge: Multivariate Alpha Matrix
 This dashboard visualizes win rates by cross-tabulating realized closing actions against prevailing market sentiment. It highlights the structural failure of chasing long momentum during high-euphoria regimes and isolates the exact asset categories that act as a "Volatility Tax" on retail portfolios.
 
-![Multivariate Alpha Analysis](charts/multivariate_alpha.png)  
-*(Reference: Generated dynamically in Phase 2: Multivariate Analysis of the notebook).*
+![Multivariate Alpha Analysis](Charts/multivariate_alpha_analysis.png)  
 
 ### 2. Performance Profiling: Win Rate vs. Sentiment
 This chart demonstrates that retail win rates remain deceptively stable across changing market conditions. The true danger lies in the invisible tail risk (max drawdown) that occurs during Extreme Greed, proving that risk management, not win rate, dictates long-term survival.
 
-![Win Rate vs Sentiment](charts/win_rate_vs_sentiment.png)  
-*(Reference: Generated dynamically in Phase 2: Performance Profiling).*
+![Win Rate vs Sentiment](Charts/winRate_vs_Drawdown_risk.png)  
 
 ### 3. Macro Exchange Health: PnL & Sentiment Positioning
 This macro-level visualization tracks the platform's aggregate cumulative PnL and maps daily Long/Short ratios against the Fear & Greed Index. It reveals how systemic sentiment dictates global retail positioning and overarching trading volume.
 
-![PnL vs Sentiment](charts/pnl_vs_sentiment.png)  
+![PnL vs Sentiment](Charts/PnL_vs_Sentiment.png)  
 *(Reference: Generated dynamically in Phase 1: Macro Platform Analytics).*
 
 ---
