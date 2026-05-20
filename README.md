@@ -44,11 +44,11 @@ This chart demonstrates that retail win rates remain deceptively stable across c
 ![Win Rate vs Sentiment](charts/win_rate_vs_sentiment.png)  
 *(Reference: Generated dynamically in Phase 2: Performance Profiling).*
 
-### 3. The Execution Edge: Advanced Microstructure
-This grouped distribution explicitly displays the performance variance between Maker and Taker actions. Patient liquidity provision (Limit Orders) maintains a clear structural edge over aggressive order crossing (Market Orders) across volatile sentiment regimes.
+### 3. Macro Exchange Health: PnL & Sentiment Positioning
+This macro-level visualization tracks the platform's aggregate cumulative PnL and maps daily Long/Short ratios against the Fear & Greed Index. It reveals how systemic sentiment dictates global retail positioning and overarching trading volume.
 
-![Market vs Limit Order Execution](charts/advanced_micro_tail.png)  
-*(Reference: Generated dynamically in Phase 3: Microstructure and Execution Analysis).*
+![PnL vs Sentiment](charts/pnl_vs_sentiment.png)  
+*(Reference: Generated dynamically in Phase 1: Macro Platform Analytics).*
 
 ---
 
